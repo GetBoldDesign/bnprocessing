@@ -1,0 +1,26 @@
+[
+  {
+    "id": 0,
+    "track": "L'Endurence",
+    "isActive": false,
+    "distance": 10,
+    "freq1" : 42,
+    "freq2" : 190,
+    "freq3" : 280,
+    "ap": 20,
+    "spectrumScale": 10
+
+  },
+  {
+    "id": 1,
+    "track": "La Ritournante",
+    "isActive": true,
+    "distance": 10,
+    "freq1" : 42,
+    "freq2" : 190,
+    "freq3" : 280,
+    "ap": 20,
+    "spectrumScale": 10
+
+  }
+]
